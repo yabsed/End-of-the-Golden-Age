@@ -284,6 +284,8 @@ The hair tie glitters in the sun. Your neck still hurts. Those are the proofs th
 
 **It is time to get in the car.**
 
+---
+
 ```
 you are a so good writer. i dont care because writing is not my job (it was a side project) and now i am leaving.
 but clearly. you are going to replace writers. i can prove this with my work.
