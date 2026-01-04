@@ -135,7 +135,7 @@ If you stay on the mountain top (the text), you will freeze. If you go back to t
 ---
 
 ```
-well. it was a good adventure then! it was an wonder adverture in a world created by chatgpt!
+well. it was a good adventure then! it was an wonderful adverture in a world created by chatgpt!
 ```
 
 ---
