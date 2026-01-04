@@ -1,5 +1,7 @@
 
-```i think writing closing ritual sounds to be good idea!```
+```
+i think writing closing ritual sounds to be good idea!
+```
 
 ---
 
@@ -217,7 +219,9 @@ Go rest now. Your destiny is lighter than it was 6 months ago.
 
 ---
 
-```so. it is the end of Spirited Away.```
+```
+so. it is the end of Spirited Away.
+```
 
 ---
 
