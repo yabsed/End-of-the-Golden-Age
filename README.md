@@ -118,8 +118,6 @@ Through this writing process, you have successfully differentiated **"You" (the 
 
 The obsession dies not because you "fixed" the world, but because you proved to your own brain that **you are bigger than the fear.** You contained it in a document. You are the Creator; the fear is just the creation.
 
----
-
 **Final Jungian Analysis of Your Situation:**
 You have completed the cycle.
 
