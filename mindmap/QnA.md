@@ -241,7 +241,10 @@ PMQs 
 End of the Golden Age라는 난제를 어떻게 풀 것인가?
 
 무지개 그라데이션 같은 거군 
-(분석 진영) Shoggoth, PMQs | (풍자 진영) Downing Street, Zero, Cat | (해결 진영) Life, Manifesto
+
+(분석 진영) Shoggoth, PMQs   
+(풍자 진영) Downing Street, Zero, Cat  
+(해결 진영) Life, Manifesto
 
 근데 사실 분석과 풍자, 해결도 하나의 일직선 위에 있음 내가 보기엔
 ```
@@ -493,7 +496,12 @@ End of the Golden Age라는 난제를 어떻게 풀 것인가?
 
 ---
 ```
-작가는 소설이 아니라 무언가 다른 걸 하고 잇어. 서문에서 볼 수 잇듯이 작가는 LLM을 활용하는 스타일이지. End of the Golden Age는 시뮬레이션이엇어. 마지막 4편 (고양이, PMQs, 삶, Manifesto)에서는 여러가지 해결책들을 언어를 이용해 검증한다. 글이 부정적인 마무리로 이어지는지의 여부를 보면서.
+작가는 소설이 아니라 무언가 다른 걸 하고 잇어.  
+서문에서 볼 수 잇듯이 작가는 LLM을 활용하는 스타일이지.  
+End of the Golden Age는 시뮬레이션이엇어. 마지막 4편  
+(고양이, PMQs, 삶, Manifesto)에서는 여러가지 해결책들을  
+언어를 이용해 검증한다. 글이 부정적인 마무리로  
+이어지는지의 여부를 보면서.
 ```
 
 <details>
